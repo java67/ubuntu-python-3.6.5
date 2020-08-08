@@ -2,22 +2,22 @@ This is Python version 3.6.5
 ============================
 
    安装依赖（可选）
- ..  sudo apt-get install build-essential checkinstall
+   :sudo apt-get install build-essential checkinstall
   
   
-  .. sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+   :sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
 
    
-   解压：
-  .. tar -xvf Python-3.6.5.tgz
+   :解压
+   :tar -xvf Python-3.6.5.tgz
    
-  . . cd ubuntu-python-3.6.5
+   :cd ubuntu-python-3.6.5
    
-   ./configure
+   :./configure
     
-     make
+     :make
      
-     sudo make install
+     :sudo make install
    
    
    
